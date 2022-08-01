@@ -1,1 +1,11 @@
-Hello, music lovers
+Hello World,
+
+Welcome to the TrebleSET creative center, my name is Scott E. Thompson and I plan to bring you on my journey as a Web Developer and Music Teacher!
+I am currently working to learn the basics of node.js and Express, while I simultaneously prepare for work as an elementary music teacher.
+I'll be trying to find my balance between family time, learning, and work as I am unwilling to sacrifice any of the three. 
+
+So I hope you enjoy my journey and it helps you along the way with your own.
+
+God bless,
+
+Scott E. Thompson
